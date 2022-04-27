@@ -12,4 +12,4 @@ m3_00002_cropped1.tif <br>
 m3_00002_cropped2.tif <br>
 m3_00002_cropped3.tif <br>
 
-I have also provided the NWB and memory mapped files generated from doing so for each corresponding .tif file.
+I have also provided the NWB for each corresponding .tif file.
