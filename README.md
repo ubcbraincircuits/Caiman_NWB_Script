@@ -3,7 +3,7 @@ The intention of this script is to run caiman analysis on a .tif file and then p
 
 The first script to run is the demo_pipeline_NWB_DMBCH.ipynb which runs caiman analysis on a .tif file and saves processed data as an NWB file. <br>
 The second script to run is the NWB_dF_F.ipynb which allows you to write the dF/F values from the caiman analysis into the NWB file. <br>
-The last script to run enables to pool the dF/F values from different movies and view them on a single graph. <br>
+The last script to run is Combining_dFF_Values.ipynb enables to pool the dF/F values from different movies and view them on a single graph. <br>
 
 Please note that these scripts are slightly different from the ones provided when Caiman is installed; they have been adjusted to better suit the needs of the centre.
 Also note that these scripts are meant to be run with Jupyter notebook.
