@@ -1,5 +1,5 @@
 # Caiman_NWB_Script
-The intention of this script is to run caiman analysis on a .tif file and then proceed to extract and analyze dF/F data. It is best to execute the scripts in the following order on Jupyter notebook:
+The intention of this project is to run caiman analysis on a .tif file and then proceed to extract and analyze dF/F data. It is best to execute the scripts in the following order on Jupyter notebook:
 
 1) The first script to run is the demo_pipeline_NWB_DMBCH.ipynb which runs caiman analysis on a .tif file and saves processed data as an NWB file. <br>
 2) The second script to run is the NWB_dF_F.ipynb which allows you to write the dF/F values from the caiman analysis into the NWB file. <br>
